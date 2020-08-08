@@ -1,0 +1,28 @@
+form {
+    background-color:  #d0fccb;
+
+}
+
+
+input[type="text" ]{
+    width: 500px;
+}
+
+input[type="select"] {
+    width: 500px;
+}
+
+
+textarea{
+    height: 100px;
+    width: 500px;
+    max-height: 100px;
+    max-width: 500px;
+}
+
+input[type="submit"], 
+input[type="button"]{
+background: #0f8300;
+color: #ffffff
+}
+
